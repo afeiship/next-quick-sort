@@ -3,7 +3,7 @@
  * description: Quick sort for next.
  * homepage: https://github.com/afeiship/next-quick-sort
  * version: 1.0.0
- * date: 2021-03-09 09:51:34
+ * date: 2021-03-09 09:53:47
  * license: MIT
  */
 
