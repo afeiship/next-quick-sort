@@ -2,6 +2,8 @@
   var global = typeof window !== 'undefined' ? window : this || Function('return this')();
   var nx = global.nx || require('@jswork/next');
 
+  // https://www.cnblogs.com/hjx-blog/articles/9183453.html
+
   nx.quickSort = function (inArray) {
     var length = inArray.length;
     if (length <= 1) return inArray;
